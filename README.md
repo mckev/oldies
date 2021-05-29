@@ -1,2 +1,4 @@
 # oldies
-Old code I created while in High School
+Old codes I created in High School.
+
+They are mostly written in Turbo Pascal. Sorry for the uppercase style haha..
